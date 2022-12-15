@@ -1,0 +1,26 @@
+package basic.dev;
+
+public class MainApp {
+	 //Comment 1 dòng cách 1. Phím Ctr + /
+	/*Comment 1 dòng cách 2*/
+	public static void main (String[] args) {
+		System.out.println("NHAP    ");
+		/**
+		 * Cách đặt tên biến:
+		 * 1.Không chứa ký tự đậc biệt !@#$%^&*()-+=
+		 * 2.Không chứa khoảng trắng	"
+		 * 3.VIết thường
+		 * 4.Không được bắt đầu bằng số
+		 */
+		int number;
+		String nameSchool;
+	}
+	
+	/*
+	 * tên phương thức tuân theo quy tắc camelCase
+	 */
+	public void show() {
+		
+	}
+
+}
